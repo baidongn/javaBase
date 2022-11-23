@@ -1,4 +1,4 @@
-package com.example.learnalgorithm.stack;
+package com.example.learnalgorithm.queue;
 
 import java.util.Arrays;
 
